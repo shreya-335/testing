@@ -1,2 +1,2 @@
 password= input("string")
-print(password)
+print("Your passowrd is: ", password)
